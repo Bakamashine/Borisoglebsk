@@ -1,0 +1,14 @@
+{
+    "name": "Vik Booking",
+    "display": "standalone",
+    "short_name": "localhost",
+    "description": "Vik Booking - localhost",
+    "start_url": "http:\/\/localhost\/wp-admin\/admin.php?page=vikbooking&webapp=1",
+    "icons": [
+        {
+            "src": "http:\/\/localhost\/wp-content\/plugins\/vikbooking\/admin\/resources\/channels\/touch-icon-192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        }
+    ]
+}
